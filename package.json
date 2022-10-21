@@ -21,6 +21,7 @@
   "homepage": "https://github.com/SaiShashank12/truffle-assignment#readme",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.0",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "geth": "^0.4.0"
   }
 }
